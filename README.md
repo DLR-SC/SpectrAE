@@ -18,7 +18,7 @@ Authors: [Peer Schütt](https://orcid.org/0000-0002-6513-5235)¹, [Jonas Grzesia
 ² Institute of Technical Physics, German Aerospace Center (DLR)
 
 <p align="center">
-<img title="End-to-end illustration of our substance detection pipeline. The system processes raw multispectral input images (left), extracts relevant spectral features through an autoencoder architecture, and generates a binary detection mask (right). These masks enable subsequent analysis and characterisation of the substances within the regions." alt="Teaser for the detection pipeline." class="center" src="media/pipeline_teaser.jpg" style="width: 40%">
+<img title="End-to-end illustration of our substance detection pipeline. The system processes raw multispectral input images (left), extracts relevant spectral features through an autoencoder architecture, and generates a binary detection mask (right). These masks enable subsequent analysis and characterisation of the substances within the regions." alt="Teaser for the detection pipeline." class="center" src="media/pipeline_teaser.jpg" style="width: 60%">
 </p>
 
 
@@ -47,7 +47,7 @@ This will set up your environment with the necessary dependencies. If you prefer
 ## Autoencoder Training
 
 <p align="center">
-<img title="The autoencoder architecture with example input and output." alt="Autoencoder architecture." src="media/autoencoder_architecture.jpg" style="width: 30%">
+<img title="The autoencoder architecture with example input and output." alt="Autoencoder architecture." src="media/autoencoder_architecture.jpg" style="width: 60%">
 </p>
 
 The autoencoder is responsible for learning the patterns and features of normal road conditions. To train the autoencoder, we've provided a Python script called ``main.py``. This script allows you to customize the training process using command-line arguments.
@@ -76,7 +76,7 @@ We have used the [Labelme Tool](https://github.com/wkentaro/labelme) for image a
 ## Postprocessing - Generating Anomaly Maps
 
 <p align="center">
-<img title="The postprocessing steps of our pipeline that generates a binary anomaly map from channel-specific loss images." alt="Postprocessing pipeline." src="media/postprocessing_test.jpg" style="width: 40%">
+<img title="The postprocessing steps of our pipeline that generates a binary anomaly map from channel-specific loss images." alt="Postprocessing pipeline." src="media/postprocessing_test.jpg" style="width: 60%">
 </p>
 
 The postprocessing step is responsible for generating anomaly maps from the autoencoder's output. The anomaly maps highlight regions of the input image that are likely to contain hazardous substances.
