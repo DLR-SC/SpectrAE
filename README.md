@@ -98,7 +98,7 @@ Provisional citation pending conference proceedings:
 @inproceedings{schutt2025detection,
   title     = {Detection of Unknown Substances in Operation Environments Using Multispectral Imagery and Autoencoders},
   author    = {Sch{\"u}tt, Peer and Grzesiak, Jonas and Gei{\ss}, Christoph and Hecking, Tobias},
-  booktitle = {Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2025)},
+  booktitle = {Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025)},
   pages     = {5192--5199},
   year      = {2025},
   series    = {Frontiers in Artificial Intelligence and Applications},
