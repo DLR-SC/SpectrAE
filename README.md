@@ -95,15 +95,18 @@ Once the thresholds are calculated, you can use them to generate anomaly maps fr
 Provisional citation pending conference proceedings:
 
 ```bibtex
-@INPROCEEDINGS{schuett2025detection,
-  author={Sch{\"u}tt, Peer and Grzesiak, Jonas and Gei{\ss}, Christoph and Hecking, Tobias},
-  title={Detection of Unknown Substances in Operation Environments Using Multispectral Imagery and Autoencoders},
-  booktitle={2025 7th International Conference on Pattern Analysis and Intelligent Systems (PAIS)}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={},
-  doi={}}
+@inproceedings{schutt2025detection,
+  title     = {Detection of Unknown Substances in Operation Environments Using Multispectral Imagery and Autoencoders},
+  author    = {Sch{\"u}tt, Peer and Grzesiak, Jonas and Gei{\ss}, Christoph and Hecking, Tobias},
+  booktitle = {Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2025)},
+  pages     = {5192--5199},
+  year      = {2025},
+  series    = {Frontiers in Artificial Intelligence and Applications},
+  volume    = {413},
+  doi       = {10.3233/FAIA251453},
+  publisher = {IOS Press},
+  category  = {Research Article}
+}
 ```
 
 
