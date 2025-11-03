@@ -11,6 +11,7 @@
 </p>
 
 This is the code release for the paper *Detection of Unknown Substances in Operation Environments Using Multispectral Imagery and Autoencoders* accepted at PAIS 2025. 
+Link to Publication: https://ebooks.iospress.nl/doi/10.3233/FAIA251453 
 
 Authors: [Peer Schütt](https://orcid.org/0000-0002-6513-5235)¹, [Jonas Grzesiak](https://orcid.org/0000-0001-9690-0780)², [Christoph Geiß](https://orcid.org/0000-0001-6518-0012)² and [Tobias Hecking](https://orcid.org/0000-0003-0833-7989)¹
 
@@ -91,8 +92,6 @@ Once the thresholds are calculated, you can use them to generate anomaly maps fr
 
 
 ## Citation
-
-Provisional citation pending conference proceedings:
 
 ```bibtex
 @inproceedings{schutt2025detection,
