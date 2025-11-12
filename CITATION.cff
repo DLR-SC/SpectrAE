@@ -1,27 +1,20 @@
 cff-version: 1.2.0
-title: "Detection of Unknown Substances in Operation Environments Using Multispectral Imagery and Autoencoders"
+title: Detection of Unknown Substances in Operation Environments Using Multispectral Imagery and Autoencoders
+message: If you use this software, please cite it using these metadata.
 authors:
-  - family-names: "Schütt"
-    given-names: "Peer"
-    orcid: "https://orcid.org/0000-0002-6513-5235"
-  - family-names: "Grzesiak"
-    given-names: "Jonas"
-    orcid: "https://orcid.org/0000-0001-9690-0780"
-  - family-names: "Geiß"
-    given-names: "Christoph"
-    orcid: "https://orcid.org/0000-0001-6518-0012"
-  - family-names: "Hecking"
-    given-names: "Tobias"
-    orcid: "https://orcid.org/0000-0003-0833-7989"
-version: "1.0"
-doi: "10.3233/FAIA251453"
-date-published: 2025
-type: "conference-paper"
-collection-title: "Frontiers in Artificial Intelligence and Applications"
-volume: 413
-start: 5192
-end: 5199
-publisher:
-  name: "IOS Press"
-conference:
-  name: "28th European Conference on Artificial Intelligence (ECAI 2025)"
+  - family-names: Schütt
+    given-names: Peer
+    orcid: https://orcid.org/0000-0002-6513-5235
+  - family-names: Grzesiak
+    given-names: Jonas
+    orcid: https://orcid.org/0000-0001-9690-0780
+  - family-names: Geiß
+    given-names: Christoph
+    orcid: https://orcid.org/0000-0001-6518-0012
+  - family-names: Hecking
+    given-names: Tobias
+    orcid: https://orcid.org/0000-0003-0833-7989
+version: 1.0
+doi: 10.3233/FAIA251453
+date-released: 2025-10-27
+type: conference-paper
