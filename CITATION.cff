@@ -36,3 +36,30 @@ keywords:
 license: MIT
 version: '1.0'
 date-released: '2025-10-06'
+preferred-citation:
+  type: conference-paper
+  authors:
+    - given-names: Peer
+      family-names: Schütt
+      orcid: 'https://orcid.org/0000-0002-6513-5235'
+    - family-names: Grzesiak
+      given-names: Jonas
+      orcid: 'https://orcid.org/0000-0001-9690-0780'
+    - given-names: Christoph
+      family-names: Geiß
+      orcid: 'https://orcid.org/0000-0001-6518-0012'
+    - given-names: Tobias
+      family-names: Hecking
+      orcid: 'https://orcid.org/0000-0003-0833-7989'
+  doi: "10.3233/FAIA251453"
+  collection-title: "Frontiers in Artificial Intelligence and Applications"
+  publisher:
+    name: "IOS Press"
+  conference:
+    name: "28th European Conference on Artificial Intelligence (ECAI 2025)"
+  month: 10
+  start: 5192 # First page number
+  end: 5199 # Last page number
+  title: "Detection of Unknown Substances in Operation Environments Using Multispectral Imagery and Autoencoders"
+  volume: 413
+  year: 2025
